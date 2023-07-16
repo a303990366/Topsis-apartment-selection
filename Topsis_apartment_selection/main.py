@@ -31,7 +31,7 @@ Window.size = (600, 800)
 
 class MenuScreen(BoxLayout,Screen):
     def __init__(self,**kwargs):
-        self.df = pd.read_csv(r"C:\Users\x5748\Downloads\final\data\town_english.csv")
+        self.df = pd.read_csv("./data/town_english.csv")
         super(MenuScreen, self).__init__(**kwargs)
         self.orientation = "vertical"
         grid = GridLayout(cols= 1)
