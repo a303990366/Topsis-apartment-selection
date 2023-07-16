@@ -1,0 +1,207 @@
+
+<Button>
+    color: "#1C3879"
+    background_normal: ''
+    background_color: "#EAE3D2"
+    font_size: 18
+<Label>
+    color: "#1C3879"
+    halign: 'center'
+    font_size: 18 
+    bold: True
+
+<Slider>
+    background_normal: ''
+    value_track: True
+    value_track_color : "#1C3879"    
+    orientation: "horizontal"
+
+<Manager>
+    val: slider
+    val1: slider1
+    val21: slider21
+    val22: slider22
+    val23: slider23
+    val3: slider3
+    val4: slider4
+    val5: slider5
+    val6: slider6
+    val7: slider7
+    Screen:
+        name: "Home"
+        BoxLayout:
+            orientation: "vertical"
+            Label:
+                text: "Welcome to here\nThis App will help you find the best apartment based on your preference."
+            Button:
+                size: 100, 100
+                size_hint: 1, None
+                text: "Next"
+                on_release: root.current = 'county'
+                
+    MenuScreen:
+        name: 'county'  
+        Button: 
+            size_hint: None, None        
+            size: 600, 50
+            text: "Next"
+            on_release: 
+                root.current = 'Next1'
+                self.parent.collect_town_values()
+
+    Screen:
+        name: "Next1"
+        #BoxLayout:
+            #orientation: "vertical"
+            #Label:
+                #text: "Please slide these bars for making sure your preference."
+
+        BoxLayout:
+            orientation: "vertical"
+            BoxLayout:
+                Label:
+                    text: "Please select your preference"
+                    font_size: "30sp"
+
+            BoxLayout:
+                Label:
+                    text: "Cost"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            BoxLayout:
+                Label:
+                    text: "Type"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider1
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            BoxLayout:
+                Label:
+                    text: "Location-traffic"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider21
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            BoxLayout:
+                Label:
+                    text: "Location-life"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider22
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            BoxLayout:
+                Label:
+                    text: "Location-education"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider23
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            BoxLayout:
+                Label:
+                    text: "Area"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider3
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            BoxLayout:
+                Label:
+                    text: "Building"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider4
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            BoxLayout:
+                Label:
+                    text: "Equipment"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider5
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            BoxLayout:
+                Label:
+                    text: "Poster"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider6
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            BoxLayout:
+                Label:
+                    text: "Reach/Save"
+                Label:
+                    text: "0"
+                Slider:
+                    id: slider7
+                    min: 0
+                    max: 100
+                    step: 1
+                Label:
+                    text: "100"
+            Button:
+                id: next2
+                size: 100, 100
+                size_hint: 1, None
+                text: "Next"
+                on_press: root.get_button_value()
+                on_release: root.current = 'Next2'
+		     
+    Screen:
+    #on_release: root.current = "Home"
+        name: "Next2"
+        BoxLayout:
+            orientation: "vertical"
+            Label:
+                text: "Please give me one second.."
+	 
+            Button:
+                on_release: app.stop()
+                size: 100, 100
+                size_hint: 1, None
+                text: "Exit"
+		

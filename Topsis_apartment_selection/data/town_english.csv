@@ -1,0 +1,371 @@
+value,label,county_value,county_label,label_ch,county_label_ch
+15,中正區,2,基隆市,Zhongzheng District,Keelung
+13,仁愛區,2,基隆市,Ren'ai District,Keelung
+14,信義區,2,基隆市,Xinyi District,Keelung
+17,安樂區,2,基隆市,Anle District,Keelung
+19,七堵區,2,基隆市,Qidu District,Keelung
+16,中山區,2,基隆市,Zhongshan Area,Keelung
+18,暖暖區,2,基隆市,warm zone,Keelung
+3,中山區,1,台北市,Zhongshan Area,Taipei City
+5,大安區,1,台北市,Da'an District,Taipei City
+7,信義區,1,台北市,Xinyi District,Taipei City
+8,士林區,1,台北市,Shilin District,Taipei City
+10,內湖區,1,台北市,Neihu District,Taipei City
+1,中正區,1,台北市,Zhongzheng District,Taipei City
+6,萬華區,1,台北市,Wanhua District,Taipei City
+4,松山區,1,台北市,Songshan District,Taipei City
+2,大同區,1,台北市,Datong District,Taipei City
+12,文山區,1,台北市,Wenshan District,Taipei City
+9,北投區,1,台北市,Beitou District,Taipei City
+11,南港區,1,台北市,Nangang District,Taipei City
+26,板橋區,3,新北市,Banqiao District,New Taipei City
+43,三重區,3,新北市,Sanchong District,New Taipei City
+50,淡水區,3,新北市,freshwater area,New Taipei City
+38,中和區,3,新北市,Zhonghe District,New Taipei City
+37,永和區,3,新北市,Yonghe District,New Taipei City
+44,新莊區,3,新北市,Xinzhuang District,New Taipei City
+34,新店區,3,新北市,Xindian District,New Taipei City
+27,汐止區,3,新北市,Xizhi District,New Taipei City
+46,林口區,3,新北市,Linkou District,New Taipei City
+47,蘆洲區,3,新北市,Luzhou District,New Taipei City
+39,土城區,3,新北市,Tucheng District,New Taipei City
+40,三峽區,3,新北市,Three Gorges District,New Taipei City
+45,泰山區,3,新北市,Taishan District,New Taipei City
+42,鶯歌區,3,新北市,Yingge District,New Taipei City
+41,樹林區,3,新北市,wooded area,New Taipei City
+48,五股區,3,新北市,Wugu District,New Taipei City
+49,八里區,3,新北市,Bali District,New Taipei City
+28,深坑區,3,新北市,pit area,New Taipei City
+51,三芝區,3,新北市,Sanzhi District,New Taipei City
+30,瑞芳區,3,新北市,Ruifang District,New Taipei City
+21,金山區,3,新北市,Jinshan District,New Taipei City
+20,萬里區,3,新北市,Wanli District,New Taipei City
+36,烏來區,3,新北市,Wulai District,New Taipei City
+33,貢寮區,3,新北市,Gongliao District,New Taipei City
+35,坪林區,3,新北市,Pinglin District,New Taipei City
+29,石碇區,3,新北市,Shiding District,New Taipei City
+31,平溪區,3,新北市,Pingxi District,New Taipei City
+32,雙溪區,3,新北市,Shuangxi District,New Taipei City
+52,石門區,3,新北市,Shimen District,New Taipei City
+73,桃園區,6,桃園市,Taoyuan District,taoyuan city
+67,中壢區,6,桃園市,Zhongli District,taoyuan city
+79,蘆竹區,6,桃園市,Luzhu District,taoyuan city
+74,龜山區,6,桃園市,Guishan District,taoyuan city
+68,平鎮區,6,桃園市,Pingzhen District,taoyuan city
+75,八德區,6,桃園市,Bade District,taoyuan city
+78,大園區,6,桃園市,big park,taoyuan city
+70,楊梅區,6,桃園市,Yangmei District,taoyuan city
+72,觀音區,6,桃園市,Guanyin District,taoyuan city
+69,龍潭區,6,桃園市,Longtan District,taoyuan city
+76,大溪區,6,桃園市,Daxi District,taoyuan city
+71,新屋區,6,桃園市,Xinwu District,taoyuan city
+77,復興區,6,桃園市,Fuxing District,taoyuan city
+371,東區,4,新竹市,Eastern District,Hsinchu City
+372,北區,4,新竹市,North District,Hsinchu City
+370,香山區,4,新竹市,Xiangshan District,Hsinchu City
+54,竹北市,5,新竹縣,Zhubei,Hsinchu County
+55,湖口鄉,5,新竹縣,Hukou Township,Hsinchu County
+56,新豐鄉,5,新竹縣,Xinfeng Township,Hsinchu County
+61,竹東鎮,5,新竹縣,Zhudong Town,Hsinchu County
+60,寶山鄉,5,新竹縣,Baoshan Township,Hsinchu County
+57,新埔鎮,5,新竹縣,Xinpu Town,Hsinchu County
+59,芎林鄉,5,新竹縣,Xionglin Township,Hsinchu County
+58,關西鎮,5,新竹縣,Kansai Town,Hsinchu County
+63,橫山鄉,5,新竹縣,Hengshan Township,Hsinchu County
+62,五峰鄉,5,新竹縣,Wufeng Township,Hsinchu County
+64,尖石鄉,5,新竹縣,Jianshi Xiang,Hsinchu County
+65,北埔鄉,5,新竹縣,Beipu Township,Hsinchu County
+66,峨嵋鄉,5,新竹縣,Emei Township,Hsinchu County
+80,竹南鎮,7,苗栗縣,Zhunan Town,Miaoli County
+81,頭份市,7,苗栗縣,Toufen,Miaoli County
+88,苗栗市,7,苗栗縣,Miaoli City,Miaoli County
+87,苑裡鎮,7,苗栗縣,Yuanli Town,Miaoli County
+85,後龍鎮,7,苗栗縣,Houlong Town,Miaoli County
+89,造橋鄉,7,苗栗縣,Zaoqiao Township,Miaoli County
+94,銅鑼鄉,7,苗栗縣,Tongluo Township,Miaoli County
+91,公館鄉,7,苗栗縣,Gongguan Township,Miaoli County
+86,通霄鎮,7,苗栗縣,Tongxiao Town,Miaoli County
+95,三義鄉,7,苗栗縣,Sanyi Township,Miaoli County
+97,卓蘭鎮,7,苗栗縣,Zhuolan Town,Miaoli County
+90,頭屋鄉,7,苗栗縣,Touwu Xiang,Miaoli County
+82,三灣鄉,7,苗栗縣,Sanwan Township,Miaoli County
+83,南庄鄉,7,苗栗縣,Nanzhuang Township,Miaoli County
+84,獅潭鄉,7,苗栗縣,Shitan Township,Miaoli County
+92,大湖鄉,7,苗栗縣,Dahu Township,Miaoli County
+93,泰安鄉,7,苗栗縣,Tai'an Township,Miaoli County
+96,西湖鄉,7,苗栗縣,West Lake Township,Miaoli County
+104,西屯區,8,台中市,Xitun District,Taichung
+102,北區,8,台中市,North District,Taichung
+103,北屯區,8,台中市,Beitun District,Taichung
+101,西區,8,台中市,West District,Taichung
+100,南區,8,台中市,South area,Taichung
+105,南屯區,8,台中市,Nantun District,Taichung
+99,東區,8,台中市,Eastern District,Taichung
+107,大里區,8,台中市,Dali District,Taichung
+121,龍井區,8,台中市,Longjing District,Taichung
+106,太平區,8,台中市,Taiping District,Taichung
+120,沙鹿區,8,台中市,Shalu District,Taichung
+98,中區,8,台中市,Central District,Taichung
+117,大雅區,8,台中市,Daya District,Taichung
+110,豐原區,8,台中市,Fengyuan District,Taichung
+108,霧峰區,8,台中市,Wufeng District,Taichung
+116,潭子區,8,台中市,Tanzi District,Taichung
+111,后里區,8,台中市,Houli District,Taichung
+123,清水區,8,台中市,Clearwater District,Taichung
+122,梧棲區,8,台中市,Wuqi District,Taichung
+109,烏日區,8,台中市,Uri District,Taichung
+124,大甲區,8,台中市,Dajia District,Taichung
+119,大肚區,8,台中市,belly area,Taichung
+118,神岡區,8,台中市,Kamioka District,Taichung
+125,外埔區,8,台中市,Waipu District,Taichung
+113,東勢區,8,台中市,Dongshi District,Taichung
+115,新社區,8,台中市,new community,Taichung
+126,大安區,8,台中市,Da'an District,Taichung
+112,石岡區,8,台中市,Shigang District,Taichung
+114,和平區,8,台中市,Heping District,Taichung
+127,彰化市,10,彰化縣,Changhua City,Changhua County
+136,員林市,10,彰化縣,Yuanlin City,Changhua County
+131,鹿港鎮,10,彰化縣,Lukang Town,Changhua County
+141,大村鄉,10,彰化縣,Dacun Xiang,Changhua County
+134,和美鎮,10,彰化縣,Hemei Town,Changhua County
+144,北斗鎮,10,彰化縣,Beidou Town,Changhua County
+135,伸港鄉,10,彰化縣,Shen Gang Township,Changhua County
+140,溪湖鎮,10,彰化縣,Xihu Town,Changhua County
+133,線西鄉,10,彰化縣,Xian Xixiang,Changhua County
+130,秀水鄉,10,彰化縣,Xiushui Township,Changhua County
+146,埤頭鄉,10,彰化縣,Pitou Xiang,Changhua County
+137,社頭鄉,10,彰化縣,Shetou Township,Changhua County
+149,二林鎮,10,彰化縣,Erlin Town,Changhua County
+143,田中鎮,10,彰化縣,Tanaka Town,Changhua County
+147,溪州鄉,10,彰化縣,Xizhou Township,Changhua County
+151,芳苑鄉,10,彰化縣,Fangyuan Township,Changhua County
+129,花壇鄉,10,彰化縣,Huatan Township,Changhua County
+132,福興鄉,10,彰化縣,Fuxing Township,Changhua County
+138,永靖鄉,10,彰化縣,Yongjing Township,Changhua County
+142,埔鹽鄉,10,彰化縣,Puyan Township,Changhua County
+128,芬園鄉,10,彰化縣,Fenyuan Township,Changhua County
+139,埔心鄉,10,彰化縣,Puxin Township,Changhua County
+145,田尾鄉,10,彰化縣,Tianwei Township,Changhua County
+148,竹塘鄉,10,彰化縣,Zhutang Township,Changhua County
+150,大城鄉,10,彰化縣,Dacheng and Rural,Changhua County
+152,二水鄉,10,彰化縣,Ershui Township,Changhua County
+155,草屯鎮,11,南投縣,Caotun Town,Nantou County
+157,埔里鎮,11,南投縣,Puli Town,Nantou County
+153,南投市,11,南投縣,Nantou City,Nantou County
+164,竹山鎮,11,南投縣,Zhushan Town,Nantou County
+165,鹿谷鄉,11,南投縣,Lugu Township,Nantou County
+161,水里鄉,11,南投縣,Shuili Township,Nantou County
+160,集集鎮,11,南投縣,Jiji Town,Nantou County
+156,國姓鄉,11,南投縣,Guoxing Township,Nantou County
+159,名間鄉,11,南投縣,Mingjian Township,Nantou County
+158,仁愛鄉,11,南投縣,Ren'ai Township,Nantou County
+154,中寮鄉,11,南投縣,Zhongliao Township,Nantou County
+162,魚池鄉,11,南投縣,Yuchi Xiang,Nantou County
+163,信義鄉,11,南投縣,Xinyi Township,Nantou County
+194,斗六市,14,雲林縣,douliu city,Yunlin County
+187,虎尾鎮,14,雲林縣,Huwei Town,Yunlin County
+185,斗南鎮,14,雲林縣,Dounan Town,Yunlin County
+193,麥寮鄉,14,雲林縣,Mailiao Township,Yunlin County
+198,西螺鎮,14,雲林縣,Xiluo Town,Yunlin County
+200,北港鎮,14,雲林縣,Beigang Town,Yunlin County
+188,土庫鎮,14,雲林縣,Tuku Town,Yunlin County
+202,口湖鄉,14,雲林縣,Kouhu Township,Yunlin County
+191,臺西鄉,14,雲林縣,Taixi Township,Yunlin County
+192,崙背鄉,14,雲林縣,Lunbei Township,Yunlin County
+197,莿桐鄉,14,雲林縣,Jutong Township,Yunlin County
+189,褒忠鄉,14,雲林縣,Baozhong Township,Yunlin County
+196,古坑鄉,14,雲林縣,Gukeng Township,Yunlin County
+204,元長鄉,14,雲林縣,Yuan Chang Xiang,Yunlin County
+195,林內鄉,14,雲林縣,Linnei Township,Yunlin County
+186,大埤鄉,14,雲林縣,Dapi Township,Yunlin County
+190,東勢鄉,14,雲林縣,Dongshi Township,Yunlin County
+199,二崙鄉,14,雲林縣,Erlun Township,Yunlin County
+201,水林鄉,14,雲林縣,Shuilin Township,Yunlin County
+203,四湖鄉,14,雲林縣,Sihu Township,Yunlin County
+373,西區,12,嘉義市,West District,chiayi city
+374,東區,12,嘉義市,Eastern District,chiayi city
+180,民雄鄉,13,嘉義縣,Minxiong Township,Chiayi County
+175,太保市,13,嘉義縣,Taibao City,Chiayi County
+176,朴子市,13,嘉義縣,Puzi City,Chiayi County
+181,大林鎮,13,嘉義縣,dalin town,Chiayi County
+173,水上鄉,13,嘉義縣,Water Township,Chiayi County
+168,梅山鄉,13,嘉義縣,Meishan Township,Chiayi County
+167,番路鄉,13,嘉義縣,Fanlu Township,Chiayi County
+171,中埔鄉,13,嘉義縣,Zhongpu Township,Chiayi County
+179,新港鄉,13,嘉義縣,Xingang Township,Chiayi County
+177,東石鄉,13,嘉義縣,Dongshi Township,Chiayi County
+169,竹崎鄉,13,嘉義縣,Takezaki,Chiayi County
+170,阿里山鄉,13,嘉義縣,Alishan Township,Chiayi County
+172,大埔鄉,13,嘉義縣,Tai Po Township,Chiayi County
+174,鹿草鄉,13,嘉義縣,Lucao Township,Chiayi County
+178,六腳鄉,13,嘉義縣,Liujiao Township,Chiayi County
+182,溪口鄉,13,嘉義縣,Xikou Township,Chiayi County
+183,義竹鄉,13,嘉義縣,Yizhu Township,Chiayi County
+184,布袋鎮,13,嘉義縣,Budai Town,Chiayi County
+212,永康區,15,台南市,Yongkang District,Tainan City
+206,東區,15,台南市,Eastern District,Tainan City
+209,北區,15,台南市,North District,Tainan City
+208,中西區,15,台南市,Central and Western District,Tainan City
+210,安平區,15,台南市,Anping District,Tainan City
+219,仁德區,15,台南市,Rende District,Tainan City
+207,南區,15,台南市,South area,Tainan City
+211,安南區,15,台南市,Annan District,Tainan City
+230,新營區,15,台南市,Xinying District,Tainan City
+241,新市區,15,台南市,new urban area,Tainan City
+238,善化區,15,台南市,Shanhua District,Tainan City
+213,歸仁區,15,台南市,Qui Nhon District,Tainan City
+223,麻豆區,15,台南市,Madou District,Tainan City
+224,佳里區,15,台南市,Jiali District,Tainan City
+214,新化區,15,台南市,Xinhua District,Tainan City
+242,安定區,15,台南市,stable area,Tainan City
+236,柳營區,15,台南市,Liuying District,Tainan City
+216,玉井區,15,台南市,Yujing District,Tainan City
+237,鹽水區,15,台南市,salt water area,Tainan City
+234,六甲區,15,台南市,Liujia District,Tainan City
+225,西港區,15,台南市,Westport District,Tainan City
+232,白河區,15,台南市,Baihe District,Tainan City
+222,官田區,15,台南市,Guantian District,Tainan City
+231,後壁區,15,台南市,posterior wall area,Tainan City
+215,左鎮區,15,台南市,Zuozhen District,Tainan City
+217,楠西區,15,台南市,Nanxi District,Tainan City
+218,南化區,15,台南市,Nanhua District,Tainan City
+220,關廟區,15,台南市,Guanmiao District,Tainan City
+221,龍崎區,15,台南市,Ryugasaki Ward,Tainan City
+226,七股區,15,台南市,Qigu District,Tainan City
+227,將軍區,15,台南市,general area,Tainan City
+228,學甲區,15,台南市,School A District,Tainan City
+229,北門區,15,台南市,Beimen District,Tainan City
+233,東山區,15,台南市,Dongshan District,Tainan City
+235,下營區,15,台南市,Xiaying District,Tainan City
+239,大內區,15,台南市,Big Inner District,Tainan City
+240,山上區,15,台南市,Yamagami District,Tainan City
+250,三民區,17,高雄市,Sanmin District,kaohsiung city
+245,苓雅區,17,高雄市,Lingya District,kaohsiung city
+253,左營區,17,高雄市,Zuoying District,kaohsiung city
+251,楠梓區,17,高雄市,Nanzi District,kaohsiung city
+247,鼓山區,17,高雄市,Gushan District,kaohsiung city
+249,前鎮區,17,高雄市,former township,kaohsiung city
+268,鳳山區,17,高雄市,Fengshan District,kaohsiung city
+243,新興區,17,高雄市,Xinxing District,kaohsiung city
+252,小港區,17,高雄市,Xiaogang District,kaohsiung city
+244,前金區,17,高雄市,Qianjin District,kaohsiung city
+255,大社區,17,高雄市,big community,kaohsiung city
+269,大寮區,17,高雄市,Daliao District,kaohsiung city
+246,鹽埕區,17,高雄市,Yancheng District,kaohsiung city
+263,橋頭區,17,高雄市,Qiaotou District,kaohsiung city
+254,仁武區,17,高雄市,Renwu District,kaohsiung city
+271,鳥松區,17,高雄市,Niaosong District,kaohsiung city
+258,岡山區,17,高雄市,Gangshan District,kaohsiung city
+262,燕巢區,17,高雄市,Yanchao District,kaohsiung city
+267,湖內區,17,高雄市,Lake District,kaohsiung city
+259,路竹區,17,高雄市,Luzhu District,kaohsiung city
+270,林園區,17,高雄市,Forest Park,kaohsiung city
+264,梓官區,17,高雄市,Ziguan District,kaohsiung city
+272,大樹區,17,高雄市,Dashu District,kaohsiung city
+273,旗山區,17,高雄市,Qishan District,kaohsiung city
+282,茄萣區,17,高雄市,eggplant area,kaohsiung city
+266,永安區,17,高雄市,Yong'an District,kaohsiung city
+274,美濃區,17,高雄市,Mino District,kaohsiung city
+248,旗津區,17,高雄市,Cijin District,kaohsiung city
+277,杉林區,17,高雄市,Shanlin District,kaohsiung city
+260,阿蓮區,17,高雄市,Alian District,kaohsiung city
+261,田寮區,17,高雄市,Tianliao District,kaohsiung city
+265,彌陀區,17,高雄市,Amitabha District,kaohsiung city
+275,六龜區,17,高雄市,Liugui District,kaohsiung city
+276,內門區,17,高雄市,inner door area,kaohsiung city
+278,甲仙區,17,高雄市,Jiaxian District,kaohsiung city
+279,桃源區,17,高雄市,Taoyuan District,kaohsiung city
+280,那瑪夏區,17,高雄市,Namasya District,kaohsiung city
+281,茂林區,17,高雄市,Maolin District,kaohsiung city
+295,屏東市,19,屏東縣,Pingtung City,Pingtung County
+306,內埔鄉,19,屏東縣,Neipu Township,Pingtung County
+326,恆春鎮,19,屏東縣,Hengchun Town,Pingtung County
+316,東港鎮,19,屏東縣,Donggang Town,Pingtung County
+308,潮州鎮,19,屏東縣,Chaozhou Town,Pingtung County
+302,鹽埔鄉,19,屏東縣,Yanpu Township,Pingtung County
+303,長治鄉,19,屏東縣,Changzhi Township,Pingtung County
+324,車城鄉,19,屏東縣,Che Chengxiang,Pingtung County
+314,南州鄉,19,屏東縣,Nanzhou Township,Pingtung County
+307,萬丹鄉,19,屏東縣,Wandan Township,Pingtung County
+320,枋寮鄉,19,屏東縣,Fangliao Township,Pingtung County
+300,里港鄉,19,屏東縣,Ligang Township,Pingtung County
+299,九如鄉,19,屏東縣,Jiuru Township,Pingtung County
+319,新園鄉,19,屏東縣,Xinyuan Xiang,Pingtung County
+311,萬巒鄉,19,屏東縣,Wanluan Township,Pingtung County
+315,林邊鄉,19,屏東縣,Linbian Township,Pingtung County
+312,崁頂鄉,19,屏東縣,Kanding Township,Pingtung County
+304,麟洛鄉,19,屏東縣,Linluo Township,Pingtung County
+305,竹田鄉,19,屏東縣,Zhutian Township,Pingtung County
+296,三地門鄉,19,屏東縣,Sandimen Xiang,Pingtung County
+297,霧臺鄉,19,屏東縣,Wutai Township,Pingtung County
+298,瑪家鄉,19,屏東縣,Ma's hometown,Pingtung County
+301,高樹鄉,19,屏東縣,Gao Shu Xiang,Pingtung County
+309,泰武鄉,19,屏東縣,Taiwu Township,Pingtung County
+310,來義鄉,19,屏東縣,Laiyi Township,Pingtung County
+313,新埤鄉,19,屏東縣,Xinpi Township,Pingtung County
+317,琉球鄉,19,屏東縣,Ryukyu Township,Pingtung County
+318,佳冬鄉,19,屏東縣,Jiadong Township,Pingtung County
+321,枋山鄉,19,屏東縣,Fangshan Township,Pingtung County
+322,春日鄉,19,屏東縣,Kasuga Township,Pingtung County
+323,獅子鄉,19,屏東縣,Lion Township,Pingtung County
+325,牡丹鄉,19,屏東縣,Peony Township,Pingtung County
+327,滿州鄉,19,屏東縣,Manzhou Township,Pingtung County
+328,宜蘭市,21,宜蘭縣,Yilan City,Yilan County
+330,礁溪鄉,21,宜蘭縣,Jiaoxi Township,Yilan County
+333,羅東鎮,21,宜蘭縣,Luodong Town,Yilan County
+329,頭城鎮,21,宜蘭縣,touch town,Yilan County
+336,五結鄉,21,宜蘭縣,Wujie Township,Yilan County
+338,蘇澳鎮,21,宜蘭縣,Suao Town,Yilan County
+337,冬山鄉,21,宜蘭縣,Dongshan Township,Yilan County
+332,員山鄉,21,宜蘭縣,Yuanshan Township,Yilan County
+331,壯圍鄉,21,宜蘭縣,Zhuangwei Township,Yilan County
+334,三星鄉,21,宜蘭縣,Samsung Township,Yilan County
+335,大同鄉,21,宜蘭縣,Datong Township,Yilan County
+339,南澳鄉,21,宜蘭縣,Nan'ao Township,Yilan County
+357,花蓮市,23,花蓮縣,Hualien City,Hualien County
+360,吉安鄉,23,花蓮縣,Ji'an Township,Hualien County
+361,壽豐鄉,23,花蓮縣,Shoufeng Township,Hualien County
+365,瑞穗鄉,23,花蓮縣,Ruisui Township,Hualien County
+358,新城鄉,23,花蓮縣,Xincheng and Rural,Hualien County
+363,光復鄉,23,花蓮縣,Guangfu Township,Hualien County
+367,玉里鎮,23,花蓮縣,Yuli Town,Hualien County
+362,鳳林鎮,23,花蓮縣,Fenglin Town,Hualien County
+359,秀林鄉,23,花蓮縣,Xiulin Township,Hualien County
+364,豐濱鄉,23,花蓮縣,Fengbin Township,Hualien County
+366,萬榮鄉,23,花蓮縣,Wanrong Township,Hualien County
+368,卓溪鄉,23,花蓮縣,Zhuoxi Township,Hualien County
+369,富里鄉,23,花蓮縣,Fuli Township,Hualien County
+341,台東市,22,台東縣,Taitung City,Taitung County
+345,卑南鄉,22,台東縣,Beinan Township,Taitung County
+349,池上鄉,22,台東縣,Chishang Township,Taitung County
+350,東河鄉,22,台東縣,Donghe Township,Taitung County
+346,鹿野鄉,22,台東縣,Luye Township,Taitung County
+351,成功鎮,22,台東縣,success town,Taitung County
+353,太麻里鄉,22,台東縣,Taimali Township,Taitung County
+342,綠島鄉,22,台東縣,Green Island Township,Taitung County
+343,蘭嶼鄉,22,台東縣,Lanyu Township,Taitung County
+344,延平鄉,22,台東縣,Yanping Township,Taitung County
+347,關山鎮,22,台東縣,Guanshan Town,Taitung County
+348,海端鄉,22,台東縣,Haiduan Township,Taitung County
+352,長濱鄉,22,台東縣,Changbin Township,Taitung County
+354,金峰鄉,22,台東縣,Jinfeng Township,Taitung County
+355,大武鄉,22,台東縣,Dawu Township,Taitung County
+356,達仁鄉,22,台東縣,Daren Township,Taitung County
+283,馬公市,24,澎湖縣,magong city,Penghu County
+284,西嶼鄉,24,澎湖縣,Xiyu Township,Penghu County
+285,望安鄉,24,澎湖縣,Wang'an Township,Penghu County
+286,七美鄉,24,澎湖縣,Qimei Township,Penghu County
+287,白沙鄉,24,澎湖縣,Baisha Township,Penghu County
+288,湖西鄉,24,澎湖縣,Huxi Township,Penghu County
+291,金寧鄉,25,金門縣,Jinning Township,Kinmen County
+292,金城鎮,25,金門縣,Jincheng Town,Kinmen County
+290,金湖鎮,25,金門縣,Jinhu Town,Kinmen County
+289,金沙鎮,25,金門縣,Jinsha Town,Kinmen County
+293,烈嶼鄉,25,金門縣,Lieyu Township,Kinmen County
+294,烏坵鄉,25,金門縣,Wuqiu Township,Kinmen County
+22,南竿鄉,26,連江縣,Nangan Township,Lianjiang County
+23,北竿鄉,26,連江縣,Beigan Township,Lianjiang County
+24,莒光鄉,26,連江縣,Juguang Township,Lianjiang County
+25,東引鄉,26,連江縣,Dongyin Township,Lianjiang County
+256,東沙,26,連江縣,Dongsha,Lianjiang County
+257,南沙,26,連江縣,Nansha,Lianjiang County
