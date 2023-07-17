@@ -41,8 +41,10 @@ Now, we introduce detailed information on each criteria.
 10. Reach/Save: how many people look into the apartment/how many people save the apartment in their list
     
 ## 5. How to use it?
-First, install all of the required packages: pip install -r requirements.txt
-Second, perform the code: python main.py
+* First, install all of the required packages:
+```pip install -r requirements.txt```
+* Second, perform the main file: 
+```python main.py```
 
 ## 6. Demo
 
